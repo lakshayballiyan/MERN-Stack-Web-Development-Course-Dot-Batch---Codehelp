@@ -1,4 +1,4 @@
-MERN Stack Development Course (@Dot Batch) - CODEHELP
+MERN Stack Web Development Course (@Dot Batch) - CODEHELP
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This Repository is used for maintaining my assignments & class notes taken during "Web Development Bootcamp" Live course conducted by "Love Babbar and Lakshay Kumar".
 

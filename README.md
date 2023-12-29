@@ -7,6 +7,6 @@ This Repository Contains -
 ✅ Cheatsheets 📄
 ✅ Debug Exercise Solutions 🧑‍💻
 ✅ HomeWork Solutions 🧑‍💻
-✅ Class Code 📖
+✅ Class Code ..
 
 ⭐ Star this Repo if you find it helpful :)

@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack - Web Development ,C++ DSA**
 
-- 💬 Ask me about **C++,Web Devlopment,MySql,DBMS,Operating System,Computer Network.**
+- 💬 Ask me about **C++ , Data Structure & Algorithm , Web Devlopment , Project , HTML , CSS , Javascript , MySql , DBMS , Operating System , Computer Network.**
 
 - 📫 How to reach me **lakshyabaliyan1111@gmail.com**
 
